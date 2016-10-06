@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fforres/stack-exchange-tags-json.git"
+    "url": "git+https://github.com/fforres/skills.git"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,7 @@
   "main": "./index.js",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fforres/stack-exchange-tags-json/issues"
+    "url": "https://github.com/fforres/skills/issues"
   },
-  "homepage": "https://github.com/fforres/stack-exchange-tags-json#readme"
+  "homepage": "https://github.com/fforres/skills#readme"
 }
