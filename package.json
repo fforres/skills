@@ -1,5 +1,5 @@
 {
-  "name": "stack-exchange-tags-json",
+  "name": "skills",
   "version": "1.0.0",
   "description": "stackexchange tags in json format",
   "main": "index.js",
